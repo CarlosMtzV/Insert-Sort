@@ -1,0 +1,16 @@
+E:\pract\AlgoritmoOrderCrlos\AlgoritmoOrderCrlos\bin\Debug\net8.0-windows\AlgoritmoOrderCrlos.exe
+E:\pract\AlgoritmoOrderCrlos\AlgoritmoOrderCrlos\bin\Debug\net8.0-windows\AlgoritmoOrderCrlos.deps.json
+E:\pract\AlgoritmoOrderCrlos\AlgoritmoOrderCrlos\bin\Debug\net8.0-windows\AlgoritmoOrderCrlos.runtimeconfig.json
+E:\pract\AlgoritmoOrderCrlos\AlgoritmoOrderCrlos\bin\Debug\net8.0-windows\AlgoritmoOrderCrlos.dll
+E:\pract\AlgoritmoOrderCrlos\AlgoritmoOrderCrlos\bin\Debug\net8.0-windows\AlgoritmoOrderCrlos.pdb
+E:\pract\AlgoritmoOrderCrlos\AlgoritmoOrderCrlos\obj\Debug\net8.0-windows\AlgoritmoOrderCrlos.Form1.resources
+E:\pract\AlgoritmoOrderCrlos\AlgoritmoOrderCrlos\obj\Debug\net8.0-windows\AlgoritmoOrderCrlos.csproj.GenerateResource.cache
+E:\pract\AlgoritmoOrderCrlos\AlgoritmoOrderCrlos\obj\Debug\net8.0-windows\AlgoritmoOrderCrlos.GeneratedMSBuildEditorConfig.editorconfig
+E:\pract\AlgoritmoOrderCrlos\AlgoritmoOrderCrlos\obj\Debug\net8.0-windows\AlgoritmoOrderCrlos.AssemblyInfoInputs.cache
+E:\pract\AlgoritmoOrderCrlos\AlgoritmoOrderCrlos\obj\Debug\net8.0-windows\AlgoritmoOrderCrlos.AssemblyInfo.cs
+E:\pract\AlgoritmoOrderCrlos\AlgoritmoOrderCrlos\obj\Debug\net8.0-windows\AlgoritmoOrderCrlos.csproj.CoreCompileInputs.cache
+E:\pract\AlgoritmoOrderCrlos\AlgoritmoOrderCrlos\obj\Debug\net8.0-windows\AlgoritmoOrderCrlos.dll
+E:\pract\AlgoritmoOrderCrlos\AlgoritmoOrderCrlos\obj\Debug\net8.0-windows\refint\AlgoritmoOrderCrlos.dll
+E:\pract\AlgoritmoOrderCrlos\AlgoritmoOrderCrlos\obj\Debug\net8.0-windows\AlgoritmoOrderCrlos.pdb
+E:\pract\AlgoritmoOrderCrlos\AlgoritmoOrderCrlos\obj\Debug\net8.0-windows\AlgoritmoOrderCrlos.genruntimeconfig.cache
+E:\pract\AlgoritmoOrderCrlos\AlgoritmoOrderCrlos\obj\Debug\net8.0-windows\ref\AlgoritmoOrderCrlos.dll
